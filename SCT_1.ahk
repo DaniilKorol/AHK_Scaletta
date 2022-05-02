@@ -14,7 +14,6 @@ SendInput,{F8}do Пистолет висит за поясом.{Enter}{F8}
 Return 
 
 
-
 !Numpad3::  
 SendInput,{F8}do АК-47 с гравировкой "Scaletta" висит на плече.{Enter}{F8}
 Sleep 1000 ; 
