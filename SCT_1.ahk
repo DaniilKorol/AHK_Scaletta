@@ -1,4 +1,5 @@
-﻿!Numpad1:: 
+#1
+!Numpad1:: 
 SendInput,{F8}do Пистолет с гравировкой "Scaletta" висит за поясом.{Enter}{F8}
 Sleep 1000 ; 
 SendInput,{F8}me достал пистолет из за пояса и снял его с предохранителя{Enter}{F8}
