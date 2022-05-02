@@ -7,15 +7,6 @@ Sleep 1000 ;
 SendInput,{F8}do Пистолет в боевой готовности.{Enter}{F8} 
 Return 
 
-
-!Numpad41:: 
-SendInput,{F8}do Пистолет с гравировкой "Scaletta" висит за поясом.{Enter}{F8}
-Sleep 1000 ; 
-SendInput,{F8}me достал пистолет из за пояса и снял его с предохранителя{Enter}{F8}
-Sleep 1000 ; 
-SendInput,{F8}do Пистолет в боевой готовности.{Enter}{F8} 
-Return 
-
 !Numpad2::  
 SendInput,{F8}me поставил пистолет с гравировкой "Scaletta" на предохранитель и убрал его за пояс{Enter}{F8} 
 Sleep 1000 ; 
